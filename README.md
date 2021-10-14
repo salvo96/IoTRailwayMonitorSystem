@@ -1,0 +1,2 @@
+# IoTRailwayMonitorSystem
+A project realized as a work for Internet of Things Based Smart Systems course at University of Catania. It is a system made up of three layers: a set of ESP32 MCUs running an httpServer to implement JSON endpoints with data from sensors on board of the train, a middleware layer which takes data from all the trains to be enhanced with Sentiment Analysis from Twitter and a dashboard to visualize all of these data.
